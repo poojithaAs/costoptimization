@@ -1,6 +1,6 @@
 # Dynatrace on Azure VM for Cost Optimization
 
-This project demonstrates the integration of Dynatrace on an Azure VM to optimize costs for a retail business. It includes steps to set up an Azure VM, install Dynatrace OneAgent, and create an Azure Function to analyze monitoring data.
+This project demonstrates the integration of Dynatrace on an Azure VM to optimize costs for a retail business. It includes steps to set up an Azure VM, install Dynatrace OneAgent, and create an Azure Function to analyze monitorng data.
 
 ## Table of Contents
 - [Setup Instructions](#setup-instructions)
