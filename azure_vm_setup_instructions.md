@@ -12,3 +12,4 @@ Follow these steps to set up an Azure VM:
    - **SSH Key**: Upload your SSH public key
 4. Review and create the VM.
 5. Use the provided `azure_vm_setup.sh` script for automation.
+" this is first clone"
